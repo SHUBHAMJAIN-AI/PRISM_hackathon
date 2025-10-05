@@ -1,7 +1,7 @@
 {
-  "name": "leads-app-backend",
+  "name": "prism-app-backend",
   "version": "1.0.0",
-  "description": "Backend API proxy for Aria agent",
+  "description": "PRISM - Backend API proxy for Aria agent",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",

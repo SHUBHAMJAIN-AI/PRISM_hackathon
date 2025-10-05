@@ -46,7 +46,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>📊 Leads Intelligence Dashboard</h1>
+        <h1>📊 PRISM Intelligence Dashboard</h1>
         <p>Analyze potential clients and get market insights</p>
       </header>
 
